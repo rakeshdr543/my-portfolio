@@ -1,6 +1,6 @@
 import React from "react"
 import {
-  FaFacebookSquare,
+  FaGithubSquare,
   FaLinkedin,
   FaDribbbleSquare,
   FaBehanceSquare,
@@ -10,12 +10,12 @@ import {
 const data = [
   {
     id: 1,
-    icon: <FaFacebookSquare className="social-icon"></FaFacebookSquare>,
+    icon: <FaLinkedin className="social-icon"></FaLinkedin>,
     url: "https://www.twitter.com",
   },
   {
     id: 2,
-    icon: <FaLinkedin className="social-icon"></FaLinkedin>,
+    icon: <FaGithubSquare className="social-icon"></FaGithubSquare>,
     url: "https://www.twitter.com",
   },
   {
