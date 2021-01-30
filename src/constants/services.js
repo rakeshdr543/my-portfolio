@@ -4,19 +4,19 @@ export default [
   {
     id: 1,
     icon: <FaCode className="service-icon" />,
-    title: "web development",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    title: "Front-end Development",
+    text: `React JS , Javascript , Redux , HTML , CSS , SASS , Next JS , Typescript`,
   },
   {
     id: 2,
     icon: <FaSketch className="service-icon" />,
-    title: "web design",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    title: "Back-end Development",
+    text: `Node JS , Express , SQL , MongoDB `,
   },
   {
     id: 3,
     icon: <FaAndroid className="service-icon" />,
-    title: "app design",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    title: "Others",
+    text: ` Python , Java , Git , Webpack , Strapi , Commerce JS `,
   },
 ]
